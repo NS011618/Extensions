@@ -1,6 +1,7 @@
-# IT Text Highlighter
+# <img src="logo16.svg" alt="IT Text Highlighter Logo" width="40" style="vertical-align: middle;" /> IT Text Highlighter 
 
-![IT Text Highlighter Logo](logo16.svg)
+
+
 
 IT Text Highlighter is a Chrome extension that allows you to easily highlight and save important text from any webpage.
 
