@@ -1,6 +1,6 @@
 # IT Text Highlighter
 
-![IT Text Highlighter Logo](icon128.svg)
+![IT Text Highlighter Logo](logo16.svg)
 
 IT Text Highlighter is a Chrome extension that allows you to easily highlight and save important text from any webpage.
 
@@ -56,10 +56,6 @@ We welcome contributions to IT Text Highlighter! Please follow these steps:
 5. Submit a pull request to the main repository
 
 Please ensure your code adheres to the existing style and passes all tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
