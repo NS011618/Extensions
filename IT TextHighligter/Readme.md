@@ -60,6 +60,6 @@ Please ensure your code adheres to the existing style and passes all tests.
 
 ## Contact
 
-If you have any questions, issues, or suggestions, please open an issue in this repository or contact us at [nsfusiontech@gmail.com].
+If you have any questions, issues, or suggestions, please open an issue in this repository or contact us at [ashishgolla2003@gmail.com].
 
 Thank you for using or contributing to IT Text Highlighter!
